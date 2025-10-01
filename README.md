@@ -1,4 +1,4 @@
-# 📝 Plano de Teste 🎯 
+# 📝 Plano de Testes 🎯 
 
 Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática". 
 
