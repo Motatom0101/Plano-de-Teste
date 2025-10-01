@@ -17,6 +17,8 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 - [Plano de Testes — Parte 1](https://medium.com/@atom.free/plano-de-testes-parte-1-59bc66157e52)
 
 - [Plano de Testes — Parte 2](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
+
+- [Plano de Testes — Parte 3: Na prática]()
  
  
 ### 🔍 Referências: 
