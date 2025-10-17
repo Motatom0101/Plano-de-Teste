@@ -18,12 +18,13 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
 - [Plano de Testes — Parte 2](https://medium.com/@atom.free/plano-de-testes-parte-2-1974d13ae36b)
 
-- [Plano de Testes — Parte 3: Na prática]()
+- [Plano de Testes — Parte 3: Na prática](https://medium.com/@atom.free/plano-de-testes-parte-3-na-pr%C3%A1tica-c38c2b4fa4a3)
  
  
 ### 🔍 Referências: 
 
  - [TodoMVC](https://todomvc-com.translate.goog/examples/react/dist/?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=pt#/active): Site usado para os testes.
 
-   Loading...
+ - [Teste de Software Manual: Do Planejamento à Execução
+](https://www.udemy.com/course/teste-de-software-manual-do-planejamento-a-execucao/)
  
