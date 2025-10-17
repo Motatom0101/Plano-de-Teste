@@ -25,6 +25,6 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
  - [TodoMVC](https://todomvc-com.translate.goog/examples/react/dist/?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=pt#/active): Site usado para os testes.
 
- - [Teste de Software Manual: Do Planejamento à Execução
+ - [Curso: Teste de Software Manual: Do Planejamento à Execução
 ](https://www.udemy.com/course/teste-de-software-manual-do-planejamento-a-execucao/)
  
