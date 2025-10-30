@@ -2,7 +2,7 @@
 
 Este plano de teste foi elaborado com base nos módulos "Plano de Teste - Teoria" e "Plano de Teste - Prática". 
 
-Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, **documentei as funcionalidades, User Stories, Regras de Negócio,  Critérios de Aceite e Evidências** no miro. Depois, montei o plano de testes no Goggle Sheets. 
+Eu mapeei as funções do TodoMVC - que é um site de criação de lista de tarefas -, **documentei as funcionalidades, User Stories, Regras de Negócio,  Critérios de Aceite e Evidências** no miro. Depois, montei o plano de testes no Google Sheets. 
 
 Além disso, documentei todo o passo a passo em artigos no Medium. Toda a documentação produzida e referências estarão logo abaixo. 
 
